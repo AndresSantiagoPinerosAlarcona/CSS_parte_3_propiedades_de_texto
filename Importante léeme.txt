@@ -1,0 +1,3 @@
+Debes de pegar el archivo normalize.css en todos tus proyectos para que se borren todos los estilos que vienen por defecto.
+Es importante que el archivo normalize.css que se coloque en los otros proyectos sea el que se encuentra en esta carpeta ya que 
+esta modificado.

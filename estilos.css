@@ -1,0 +1,11 @@
+*{
+	padding: 0;
+	margin: 0; 													/*Le quitas las porpiedades que vienen por defecto*/
+}
+.contact-form{
+	font-size: 2em; 					/*Tamaño de la letra*/
+	font-family: 'Anton',gorgia ; 		/*Tipografia ejemplo:     si no encuentra la pirpograifa ('Anton'), que coloque gorgia  */
+	line-height: 1.5;						/*line-height*/
+	font-weight: 3;					/* Grosor */
+	color:red;							/* Color */
+}
